@@ -1,2 +1,5 @@
 # Remote-Control-Car
-Working with John and Osmar.
+
+Vincent(vvVincentG) - electronics and code
+John(SIGMAJOHN123) - 
+Osmar(ogmarg) -
